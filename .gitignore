@@ -1,6 +1,7 @@
- venv1/
- .venv/
- .venv1/
+ venv1
+ .venv
+ .venv1
  models
  src/hf_cache
  src/models
+.idea
